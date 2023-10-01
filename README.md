@@ -41,11 +41,17 @@ In the dynamic world of retail, finding the optimal balance between attracting c
 
 ### 1. Install Dependencies
 
+    ```bash
+
 pip install -r requirements.txt
+```
 
 ### 2. Launch Jupyter Notebooks:
 
+    ```bash
+
 jupyter notebook
+```
 
 ### Usage
 
@@ -68,3 +74,7 @@ This project is licensed under the MIT License.
 - Heartfelt thanks to our contributors and the vibrant open-source community.
 
 Feel free to adapt this README further to suit your project's unique aspects and nuances.
+
+```
+
+```
